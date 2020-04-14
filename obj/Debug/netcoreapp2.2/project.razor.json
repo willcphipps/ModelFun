@@ -2966,6 +2966,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/ModelFun/Views/Home/Users.cshtml",
+      "TargetPath": "Views\\Home\\Users.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/ModelFun/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -2976,8 +2981,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/ModelFun/Views/Home/Names.cshtml",
+      "TargetPath": "Views\\Home\\Names.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/ModelFun/Views/Home/String.cshtml",
+      "TargetPath": "Views\\Home\\String.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/ModelFun/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/williamphipps/Desktop/CodingDojo/CSharp/CSharpMVC/ModelFun/Views/Home/Nums.cshtml",
+      "TargetPath": "Views\\Home\\Nums.cshtml",
       "FileKind": "mvc"
     },
     {
